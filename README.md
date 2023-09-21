@@ -1,4 +1,4 @@
-## Python YouTube MP3 Downloader
+## YouTube MP3 Downloader
 
 This is a simple Python script that allows you to download MP3 files from YouTube videos using the Tkinter GUI library.
 
