@@ -1,3 +1,6 @@
+# Copyright  : fantomas4o (2023)
+# Github     : https://github.com/fantomas4o/Python-YouTube-MP3-Downloader.git
+# Contact    : https://urocibg.eu
 import tkinter as tk
 from tkinter import filedialog
 from tkinter import messagebox
