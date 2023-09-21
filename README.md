@@ -28,11 +28,12 @@ Click the "Download" button to start the download.
 
 Once the download is complete, a message box will appear informing you that the file was successfully downloaded.
 
-License
+## License
 
 This project is licensed under the MIT License.
 
 Feel free to modify and use the script according to your needs.
 
-Author
+## Author
+
 Created by: fantomas4o
